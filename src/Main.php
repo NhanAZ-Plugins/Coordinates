@@ -23,7 +23,7 @@ class Main extends PluginBase implements Listener {
 		$player = $event->getPlayer();
 		$packet = new GameRulesChangedPacket();
 		$packet->gameRules = [
-			"ShowCoordinates" => new BoolGameRule($this->value, $this->isPlayerModifiable)
+			"showcoordinates" => new BoolGameRule($this->value, $this->isPlayerModifiable)
 		];
 		$player->getNetworkSession()->sendDataPacket($packet);
 	}

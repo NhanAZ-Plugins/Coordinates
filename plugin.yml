@@ -1,10 +1,10 @@
 ---
 name: Coordinates
-version: 1.0.2
+version: 1.0.3
 main: NhanAZ\Coordinates\Main
 api: 5.0.0
 src-namespace-prefix: NhanAZ\Coordinates
 author: NhanAZ
-description: Show coordinates
-website: https://github.com/NhanAZ
+description: Show player coordinates when they join an Axolotl-PM server
+website: https://github.com/NhanAZ-Plugins/Coordinates
 ...
