@@ -22,7 +22,7 @@ Download `Coordinates.phar` from a verified [GitHub release](https://github.com/
 
 ## Building and testing
 
-The [Build workflow](.github/workflows/build.yml) runs PHPStan level max against a pinned Axolotl-PM source revision, builds the PHAR with [DevTools v1.0.1](https://github.com/NhanAZ/DevTools/releases/tag/v1.0.1), and checks its manifest, source, license and digest. The release process uses the verified CI artifact. A server startup check does not prove the client display, so test with a Bedrock client when one is available.
+The [build workflow](.github/workflows/build.yml) runs PHPStan level max against a pinned Axolotl-PM source revision, builds the PHAR with [DevTools](https://github.com/NhanAZ/DevTools), and checks its manifest, source, license and digest. The workflow pins the builder revision. The release process uses the verified CI artifact. A server startup check does not prove the client display, so test with a Bedrock client when one is available.
 
 ## License and support
 
