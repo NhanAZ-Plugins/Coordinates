@@ -1,9 +1,15 @@
 # Coordinates
 
-Coordinates asks the Bedrock client to show the player's coordinates when they join an Axolotl-PM server.
+Show player coordinates on join for Axolotl-PM servers
 
-[![Build](https://github.com/NhanAZ-Plugins/Coordinates/actions/workflows/build.yml/badge.svg)](https://github.com/NhanAZ-Plugins/Coordinates/actions/workflows/build.yml)
-[![License](https://img.shields.io/github/license/NhanAZ-Plugins/Coordinates)](LICENSE)
+[![CI](https://github.com/NhanAZ-Plugins/Coordinates/actions/workflows/build.yml/badge.svg)](https://github.com/NhanAZ-Plugins/Coordinates/actions/workflows/build.yml)
+[![Latest release](https://img.shields.io/github/v/release/NhanAZ-Plugins/Coordinates)](https://github.com/NhanAZ-Plugins/Coordinates/releases/latest)
+[![License](https://img.shields.io/github/license/NhanAZ-Plugins/Coordinates)](https://github.com/NhanAZ-Plugins/Coordinates/blob/master/LICENSE)
+[![Discord](https://img.shields.io/discord/986553214889517088?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/j2X83ujT6c)
+
+## Overview
+
+This plugin targets the PocketMine-MP and Axolotl-PM API 5 ecosystem and is maintained under [NhanAZ-Plugins](https://github.com/NhanAZ-Plugins).
 
 ## How it works
 
